@@ -349,3 +349,4 @@ Configuring the `.env` internally inside `/backend/` safely operates the core Va
   <b>Architected by Adarsh Dwivedi — VaidyaMitra Enterprise Architecture</b>
 </div>
 # Vaidyamitra
+# Vaidyamitra
